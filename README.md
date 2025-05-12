@@ -8,8 +8,7 @@ It classifies input as **Positive**, **Negative**, or **Neutral**, based on sent
 
 ## 🚀 Live Demo
 
-🔗 [Hosted on Streamlit Cloud](#)  
-_(Will update with live link once deployed)_
+🔗 [Hosted on Streamlit Cloud](https://atajvar-sentiment-analysis.streamlit.app)
 
 ---
 
