@@ -35,20 +35,21 @@ _(Will update with live link once deployed)_
 
 ---
 
-## 🛠️ Local Setup (Optional)
+# 🛠️ Local Setup (Optional)
 
 
-# Clone this repo
+## Clone this repo
 git clone https://github.com/ATajvar/Twitter_Sentiment_Analysis
+
 cd Twitter_Sentiment_Analysis
 
-# Install dependencies
+## Install dependencies
 pip install -r requirements.txt
 
-# Run the app
+## Run the app
 streamlit run app.py
 
-## Files
+# Files
 	•	app.py — Main Streamlit app
 	•	requirements.txt — Project dependencies
     •	README.md - Readme and details
